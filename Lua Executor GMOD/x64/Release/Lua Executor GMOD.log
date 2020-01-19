@@ -1,0 +1,9 @@
+﻿  D3D9Hook.cpp
+d:\repos\lua executor gmod\lua executor gmod\d3d9hook.cpp(20): warning C4311: 'type cast': pointer truncation from 'HMODULE' to 'DWORD'
+d:\repos\lua executor gmod\lua executor gmod\d3d9hook.cpp(20): warning C4302: 'type cast': truncation from 'HMODULE' to 'DWORD'
+d:\repos\lua executor gmod\lua executor gmod\d3d9hook.cpp(21): warning C4312: 'type cast': conversion from 'DWORD' to 'HMODULE' of greater size
+d:\repos\lua executor gmod\lua executor gmod\d3d9hook.cpp(28): warning C4312: 'type cast': conversion from 'DWORD' to 'BYTE *' of greater size
+d:\repos\lua executor gmod\lua executor gmod\d3d9hook.cpp(204): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD **' of greater size
+d:\repos\lua executor gmod\lua executor gmod\d3d9hook.cpp(206): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'void ***' of greater size
+D3D9Hook.obj : error LNK2001: unresolved external symbol DetourFunction
+D:\repos\Lua Executor GMOD\x64\Release\Lua Executor GMOD.dll : fatal error LNK1120: 1 unresolved externals
