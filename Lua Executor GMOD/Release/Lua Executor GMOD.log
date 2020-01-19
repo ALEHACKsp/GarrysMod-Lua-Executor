@@ -1,9 +1,0 @@
-﻿  D3D9Hook.cpp
-  Generating code
-  1 of 4367 functions (<0.1%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    3 functions had inline decision re-evaluated but remain unchanged
-  Finished generating code
-detours.lib(detours.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detours.lib(detours.obj)' or at 'D:\repos\Lua Executor GMOD\Release\detours.pdb'; linking object as if no debug info
-detours.lib(disasm.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detours.lib(disasm.obj)' or at 'D:\repos\Lua Executor GMOD\Release\detours.pdb'; linking object as if no debug info
-  Lua Executor GMOD.vcxproj -> D:\repos\Lua Executor GMOD\Release\Lua Executor GMOD.dll
